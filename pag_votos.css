@@ -1,0 +1,9 @@
+body {
+    margin: 2%;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    padding: 5px 10px;
+    margin-left: 10px;
+}
